@@ -59,19 +59,19 @@ lr.intercept_
 ```
 
 ## Output:
-## df.head:
+## HEAD:
 ![Screenshot 2024-02-23 213354](https://github.com/Gokul0117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121165938/b850e3d6-3111-4303-b479-fc2f5e8e9680)
 
-## Graph of plotted data:
+## GRAPH OF PLOTTED DATA:
 ![Screenshot 2024-02-23 212850](https://github.com/Gokul0117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121165938/a2efb952-3a9c-4dae-9425-9c038e5189c1)
 
-## Performing Linear Regression:
+## TRAINED DATA:
 ![Screenshot 2024-02-23 213127](https://github.com/Gokul0117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121165938/e5ac47f7-ee0b-4ffa-b141-992f2506ea8d)
 
-## Trained data:
+## LINE OF REGRESSION:
 ![Screenshot 2024-02-23 213151](https://github.com/Gokul0117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121165938/1efa4b20-abc7-4fc1-86ab-b5b94036d129)
 
-## Predicting the line of Regression:
+## COEFFICIENT AND INTERCEPT VALUES:
 ![Screenshot 2024-02-23 213259](https://github.com/Gokul0117/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121165938/a05c9580-798d-49a6-b5f9-4e986838d00d)
 
 
